@@ -1,4 +1,4 @@
-## Desafio 1 do Bootcamp Cloud AWS
+## Desafio 1 do ***Bootcamp Cloud* AWS**
 
 Evento promovido pela [Digital Innovation One - DIO](https://www.dio.me/en), com patrocínio da [Amazon Web Services - AWS](https://aws.amazon.com/pt/).
 
@@ -8,7 +8,7 @@ Evento promovido pela [Digital Innovation One - DIO](https://www.dio.me/en), com
 
 --- 
 ## Desafio
-**Infraestrutura como código: *script* para criação de estrutura de diretórios, usuários, grupos de usuários e permissões de acesso às pastas**.
+**Infraestrutura como código: *script* para criação de uma estrutura de diretórios, usuários, grupos de usuários e permissões de acesso às pastas**.
 
 ---
 ### Objetivo

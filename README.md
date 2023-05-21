@@ -1,7 +1,7 @@
 ## Desafio 1 do Bootcamp Cloud AWS
-<div align="left">
-  Evento promovido pela [Digital Innovation One - DIO](https://www.dio.me/en), com patrocínio da [Amazon Web Services - AWS](https://aws.amazon.com/pt/).  
-</div>
+
+Evento promovido pela [Digital Innovation One - DIO](https://www.dio.me/en), com patrocínio da [Amazon Web Services - AWS](https://aws.amazon.com/pt/).
+
 <div align="right">
   <img src="https://github.com/crobertocamilo/linux_basico/blob/main/assets/logo_bootcamp.webp" alt="logo bootcamp" width=20%/>
 </div>

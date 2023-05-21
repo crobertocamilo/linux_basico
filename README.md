@@ -7,10 +7,10 @@ Evento promovido pela [Digital Innovation One - DIO](https://www.dio.me/en), com
 </div>
 
 --- 
-#
 ## Desafio
-**Infraestrutura como código: *script* para criação de estrutura de diretórios, usuários, grupos de usuários e permissões de acesso às pastas**
+**Infraestrutura como código: *script* para criação de estrutura de diretórios, usuários, grupos de usuários e permissões de acesso às pastas**.
 
+---
 ### Objetivo
 
 Desenvolver um *script* que operacionalize a criação da seguinte estrutura de diretórios, usuários e grupos, num servidor **Linux**:
